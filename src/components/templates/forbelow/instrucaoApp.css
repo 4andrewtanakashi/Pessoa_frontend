@@ -1,0 +1,33 @@
+#alinhar {
+    position:absolute; 
+    top:5%;
+    left:70%;
+    transform: translate(-0%, -40%);
+    background-color: rgb(185, 52, 52);
+}
+
+#aliTela {
+  position:absolute; 
+  top:30%;
+  left:40%;
+  transform: translate(-0%, -40%);
+  background-color: rgb(245, 245, 245);
+}
+
+input[type=number] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+
+  input[type=number]:focus {
+    width: 70%;
+  }

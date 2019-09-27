@@ -1,0 +1,56 @@
+.context {
+    background-color:  #eee7e7;
+    padding-right: 0px;
+    width:600px;
+    height:500px;
+    margin-top:10px;
+    margin-top: 4px;
+    border:solid 1px;
+    border-radius:20px;
+    color: rgb(0, 0, 0);
+    box-shadow: var(--shadow);
+}
+
+#aliTela {
+    position:absolute; 
+    top:35%;
+    left:35%;
+    transform: translate(-0%, -40%);
+    background-color:  #eee7e7;
+  }
+
+.alinhamento {
+    margin-top: 90px;
+    margin-left: 380px;
+}
+
+.alinhamentoAdc {
+    margin-top: 10px;
+    margin-left: 400px;
+}
+
+.alinha {
+    position:absolute; 
+    top:55%;
+    left:35%;
+    transform: translate(-0%, -40%);
+    background-color:  #eee7e7;
+}
+
+.submit {
+    color: rgb(5, 4, 4);
+    font-size: 2em;
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background: #3008df;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px rgb(93, 115, 211);
+    margin: 20px auto 0;
+
+    transform: translate(-400000%, -10000000%, -1000%);
+}

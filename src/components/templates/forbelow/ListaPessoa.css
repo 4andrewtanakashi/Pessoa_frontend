@@ -1,0 +1,24 @@
+.conteudo {
+    background-color: #eee7e7;
+    padding-right: 100px;
+    width:600px;
+    height:800px;
+    /* margin-top: 4px;
+    border:solid 1px;
+    border-radius:20px; */
+    color: rgb(0, 0, 0);
+    box-shadow: var(--shadow);
+}
+
+.table {
+    margin-left: 20px;
+    width:560px;
+}
+
+th {
+    color:  rgb(7, 7, 7);
+}
+
+td {
+    color:  rgb(7, 7, 7);
+}

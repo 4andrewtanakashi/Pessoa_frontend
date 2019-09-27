@@ -1,0 +1,31 @@
+aside.jogo{
+    background-color: rgb(146, 27, 27);
+    display:block; 
+    /*justify-content: center;
+    align-items: justify;*/
+    /*align-content: space-between;*/
+    
+}
+aside.jogo img{
+    padding:25px 15px;
+    width: 30%;
+    height: 90px;
+}
+aside.logo2 img{
+    padding:10px 10px;
+    width: 2%;
+    height: 90px;
+    
+}
+aside.logo3 img{
+    padding:25px 15px;
+    width: 30%;
+    height: 90px;
+    
+}
+
+/* @media(max-width: 500px){
+    aside.logo img{
+        display: none;
+    }
+} */

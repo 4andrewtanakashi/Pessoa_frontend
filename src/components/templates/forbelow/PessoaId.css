@@ -1,0 +1,16 @@
+.conteudo {
+    background-color:  #f6f6f6;
+    padding-right: 500px;
+    width:600px;
+    height:500px;
+    margin-top: 4px;
+    border:solid 1px;
+    border-radius:20px;
+    color: rgb(0, 0, 0);
+    box-shadow: var(--shadow);
+}
+
+.table {
+    margin-left: 20px;
+    width:560px;
+}
