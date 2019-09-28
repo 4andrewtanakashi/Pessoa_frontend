@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const INSTRUCTOR = 'Andrew'
-const URL = 'http://localhost:8080'
+const URL = 'https://arcane-sea-40282.herokuapp.com';
 const INSTRUCAO_API_URL = `${URL}/instructor/${INSTRUCTOR}`
 
 class DataPessoas {
