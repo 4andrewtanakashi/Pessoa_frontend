@@ -15,7 +15,7 @@ app.use(cors({ origin: "https://arcane-sea-40282.herokuapp.com"}));
 app.use(espress.json());
 app.use(express.urlencoded({extended: true }));
 
-app.listen(3000);
+app.listen(process.ENODEV.PORT || 3000);
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
